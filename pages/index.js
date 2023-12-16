@@ -120,10 +120,10 @@ export default function Home() {
               Made with love &#9825; by{" "}
               <a
                 className="hover:text-green-500"
-                href="https://www.kuluruvineeth.com"
+                href="https://www.linkedin.com/in/rahul-khandelwal-ba6b8918a/"
                 target="__blank"
               >
-                Kuluru Vineeth
+                Rahul Khandelwal
               </a>
             </h2>
           </div>
